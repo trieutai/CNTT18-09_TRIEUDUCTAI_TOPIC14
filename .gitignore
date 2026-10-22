@@ -1,0 +1,8 @@
+/vendor/
+.env
+.local
+*.log
+uploads/
+outputs/
+temp/
+.DS_Store
